@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GreenReaderX Pages
 
 GreenReaderX is free application to read classic epub and txt books on your iPhone.
 
@@ -8,4 +8,5 @@ Elegant design, extended functionality, high speed and stability of work will ma
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with GreenReaderX? Check out our [pages](https://greenreaderx.github.io
+) or [contact support](greenreaderx@hotmail.com) and we’ll help you sort it out.
